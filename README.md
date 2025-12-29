@@ -25,5 +25,4 @@ O repositório está estruturado por pastas, onde **cada pasta contém um exerc�
 
 Dentro de cada pasta, há:
 
-* Arquivo ".c" com o código fonte;
-* Arquivo de projeto do Dev-C++.
+* Arquivo ".c" com o código fonte

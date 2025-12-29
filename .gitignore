@@ -53,4 +53,5 @@ dkms.conf
 
 # Arquivos especificos do Dev-C++
 *.layout
+*.dev
 Makefile.win

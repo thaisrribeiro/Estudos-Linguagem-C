@@ -21,8 +21,4 @@ Este repositório contém as resoluções dos exercícios propostos no livro did
 
 #### 📁 Organização
 
-O repositório está estruturado por pastas, onde **cada pasta contém um exercício individual**.
-
-Dentro de cada pasta, há:
-
-* Arquivo ".c" com o código fonte
+O repositório contém a pasta **Exercicios**, onde estão os códigos de cada exercício separados por pastas individuais. 

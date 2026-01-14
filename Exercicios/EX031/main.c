@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// 
+// Leitura de Frase e Número de Vezes de Impressão
 
 int main() {
 	
